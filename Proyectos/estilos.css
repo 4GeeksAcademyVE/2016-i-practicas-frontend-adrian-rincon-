@@ -1,0 +1,59 @@
+@font-face{
+	font-family: miFuente1;
+	src: url(fonts/SnackerComic.ttf);
+}
+
+body{
+	background-color: grey;
+	color: #eee;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.container{
+	margin-top: 50px;
+	width: 1000px;
+	margin-bottom: 50px;
+}
+
+.col-md-3 {
+	background: orange;
+	border-radius: 10px;
+	
+
+}
+.col-md-8{
+	background: red;
+	border-radius: 10px;
+}
+a{
+	color: black;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: yellow;
+}
+
+div h1{
+	background: red;
+	font-family: "miFuente1";
+	font-size: 30px;
+}
+.col-md-4 h3 {
+	background: red;
+	color: black;
+	
+}
+
+.col-md-4 p{
+	background: orange;
+	color: black;
+	width: 293px;
+	height: 100px;
+}
+
+.bx-wrapper .bx-viewport {
+	border: 0;
+}
+
